@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Wintersmith's blog</title>
+    <atom:link href="http://greg.winstonhuxley.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://greg.winstonhuxley.com</link>
+    <description>Gregory Tandiono's Personal Site, Blog, and Portfolio</description>
+    <pubDate>Sun, 15 Sep 2013 17:00:00 -0700</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>I am my Worse Client</title>
+      <link>http://greg.winstonhuxley.com/articles/i-am-my-worse-client/</link>
+      <pubDate>Sun, 15 Sep 2013 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://greg.winstonhuxley.com/articles/i-am-my-worse-client/</guid>
+      <author></author>
+      <description>&lt;h2&gt;I am my Worse Client&lt;/h2&gt;
+&lt;h4&gt;So we bitch about clients left and right, but after treating yourself like a client, you change.&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;“I am Jack’s worse client”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I don’t know if this applies to everyone, but, heck, I felt like I was the worse client. It took me 3 years to make up my mind about my own brand identity as a freelancer; it took me a year and a half to decide what kind of website I want for myself. Even after I completed my first site, I keep changing my mind, and worse, I changed my brand look over and over again.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Am I indecisive? Most likely.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do I want things perfect for myself, because I possess the tools, skills, knowledge, design eye? Absolutely.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do you sell yourself to clients, employers about the tools, skills, knowledge and design eye you possess? Absolutely.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do I expect to build myself the ultimate, super-amaze-balls site, design, because I know I can? Of course I will.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do the people that hire you expect the same? Yes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It’s not the same is it? How you treat yourself and how you treat your clients? What’s worse about treating yourself as the client is that you expect so much, and you constantly think you can do better than what you have already done.&lt;/p&gt;
+&lt;p&gt;“Nothing is ever going to be good enough!” You think to yourself.&lt;/p&gt;
+&lt;p&gt;“Nothing is ever going to be good enough for this client! GOD!” How I think about clients, sometimes.&lt;/p&gt;
+&lt;p&gt;It was a schizophrenic journey (philosophically speaking), but the outcome was simply:&lt;/p&gt;
+&lt;p&gt;I became more understanding of my clients/employer’s needs. I rarely complain about how they think, because I know myself if I were a client. I felt like I was the worse person in the world, but I fixed myself, understanding that inner-client personality.&lt;/p&gt;
+&lt;p&gt;Here’s the exercise:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Take a vacation from yourself, and think of yourself as an entrepreneur who owns a chain of restaurants and in need of a website/branding/design/etc.&lt;/li&gt;
+&lt;li&gt;Write down a brief on how you want your branding/website/design/etc on a piece of paper; give a brief, quirky explanation on how you want it to look like, be whimsical. Don’t forget to set a deadline!&lt;/li&gt;
+&lt;li&gt;Put it on your Iphone Calendar or any reminder, set it to remind you in a week or two.&lt;/li&gt;
+&lt;li&gt;Now get your developer/designer mode on, prior to the brief.&lt;/li&gt;
+&lt;li&gt;and try to follow the brief as best as you can.&lt;/li&gt;
+&lt;li&gt;Evaluate your work and compare it with your other client work.&lt;/li&gt;
+&lt;li&gt;Was it consistent? Was it procrastinated? Was it way off?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Cheers!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Working in a non-technical Environment</title>
+      <link>http://greg.winstonhuxley.com/articles/working-in-a-non-technical-environment/</link>
+      <pubDate>Sat, 14 Sep 2013 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://greg.winstonhuxley.com/articles/working-in-a-non-technical-environment/</guid>
+      <author></author>
+      <description>&lt;h2&gt;Working in a non-technical Environment&lt;/h2&gt;
+&lt;h4&gt;The Joys and Perils of working in a non-technical Environment and what YOU can do to make it better!&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;This is based on my experience working in a small company that deals strictly with SEO (Search Engine Optimization) &amp;amp; SEM (Search Engine Marketing) and puts in “web development” into the package.
+&lt;br&gt;
+&lt;br&gt;
+Summarized Experience:&lt;/p&gt;
+&lt;p&gt;The money was great, the people are great, the energy is superb, but the workflow could be better.&lt;/p&gt;
+&lt;p&gt;The people I work closely with were content strategists, SEO experts, and marketing. I developed web products using tools like: Rails, Node, some php, used CMS’s that were developer friendly (not wordpress…haha..), used node-based/rails-based (Wintersmith, Sinatra, Jekyll, and so on) static site generators to quickly template sites, wrap it up in a CMS, test, and deploy. They gave me freedom to use whatever tools I want to finish the job.&lt;/p&gt;
+&lt;p&gt;However, things began overwhelming quick when I realized that I was the only developer working there. There was no developer workflow, no developer environment. Every project they signed, they wanted it done FAST. (and when I say fast, its like 1-2 weeks deadline).&lt;/p&gt;
+&lt;p&gt;So, at first, I felt like Batman, working solo to save Gotham City in trouble. Then after a while I felt like an asshole who made a very bad decision. I had to adapt quick.&lt;/p&gt;
+&lt;p&gt;First Step: Educate the marketing team.
+First, I told them to slow down. Then, I explained to them that things just don’t work like a sweatshop. There’s nothing worse than having a web sweatshop. Then they resorted to…. BUYING WORDPRESS TEMPLATES, which was the worse 3 weeks of my life tweaking shitty templates to meet the clients need and “treat” it like custom development.&lt;/p&gt;
+&lt;p&gt;Then, I told them that there was no value proposition if they were just using wordpress templates and sell them to clients (I mean, C’mon…. really?) So 3 meetings later, they agreed to give me some room, and calm their steroid marketing and hire more devs. WHEW!&lt;/p&gt;
+&lt;p&gt;Second Step: Re-Evaluate the Product.
+Selling SEO/SEM services can be very lucrative, I don’t necessarily like it, but hey, it’s their business model. After a while it felt like working in a Walmart of web services, “HEY, WE SELL SEO, SEM, WEB DESIGN. IF YOU BUY IN ALL THREE, YOU GET A DISCOUNT.” So, I suggested to re-structure and re-evaluate the company brand slowly to up the value of the company brand so it doesn’t look cheap.&lt;/p&gt;
+&lt;p&gt;Instead of:&lt;/p&gt;
+&lt;p&gt;“We offer SEO, SEM, and web design services for you business!”&lt;/p&gt;
+&lt;p&gt;Make it:&lt;/p&gt;
+&lt;p&gt;“We are Digital Strategists”&lt;/p&gt;
+&lt;p&gt;A much simpler approach.&lt;/p&gt;
+&lt;p&gt;SEO/SEM&lt;/p&gt;
+&lt;p&gt;became&lt;/p&gt;
+&lt;p&gt;Content Strategy&lt;/p&gt;
+&lt;p&gt;Third Step: Educate the Clients
+Hard Sales, Cold Calls, Email Marketing. Hmmm. I’m all for making money, but I’m traditional when it comes to marketing. I still believe in the word-of-mouth system. Cold Calls/Email Marketing will seem like you’re selling them something they might not need.&lt;/p&gt;
+&lt;p&gt;Educate them about the state of the web (in human terms), tell them the value of the services that the company offers.&lt;/p&gt;
+&lt;p&gt;DO NOT treat your clients like morons.&lt;/p&gt;
+&lt;p&gt;DO NOT sell them based on fear (like “oh , we noticed your site on google ranking is such and such; and your SEO scores are not amaze balls! You NEED US!”).&lt;/p&gt;
+&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Don’t get me wrong, I’m not ranting (eventhough I do that a lot), I love the guys I worked with, they’re very open-minded, it just takes them a while to understand your viewpoint as a technical person. In their defense, they came from heavy marketing background, they sell anything they can, and when they entered the tech industry, they were stunned and did not know how to start. And they’re doing very well for themselves as they have a better understanding on how this industry works.&lt;/p&gt;
+&lt;p&gt;And I’m not saying that lil-o-me changed the whole company, it was a collective effort for all of us, and I’m eternally grateful that I was given the opportunity to join their little family.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Bullied</title>
+      <link>http://greg.winstonhuxley.com/articles/bullied/</link>
+      <pubDate>Fri, 30  Aug 2013 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://greg.winstonhuxley.com/articles/bullied/</guid>
+      <author></author>
+      <description>&lt;h2&gt;Bullied&lt;/h2&gt;
+&lt;h4&gt;Being Bullied can be a positive thing&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;EARLY LIFE BULLY (Jakarta, Indonesia)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have been bullied pretty much throughout primary school and all the way to highschool; I come home everyday and asked my parents, “Why do they always pick on me?” Growing up in a third world country was pretty tough for me, and especially when people think you’re a little different, they completely alienate you, mock you from a distance, or worse, physical intimidation. Sometimes I would fight back, but it got me no where, and it just got worse. My parents had always told me never to fight back, “Don’t descend to their level! You’re not that type of person!” Sure, I agreed. Got good grades, ignored everything else around me and got myself into college, straight out of high school. Done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;COLLEGE LIFE BULLY (Atlanta, Georgia)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;College life was wonderful for me, I got along with everyone, I thought life couldn’t get any better than this. 3 semesters in, I have finally encountered a group of pretentious people. They were intellectually much more superior than me, I wanted to learn from them, I wanted to get to know them, but however, I wasn’t good enough to even be seen with them. So, intellectual bullying. Sure. Got the message. Got my shit together, motivated myself, and promised myself I would never be that type of person. Never once heard from them again, though I still wish them all the best.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WORK PLACE BULLY (Atlanta, Georgia)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fresh out of college, got my degree in music. Life was good, but finding a job was…. well…. yeah…. Joined an orchestra group, for no money, eating ramen noodles 3 days a week, and eating rice with eggs and sriracha hot sauce for the rest of the week. Life was Diarrhea. My bank account went to a minus because of the darned monthly charge. Life was Explosive Diarrhea. Got a job doing photoshop work (with no fucking clue how to use photoshop, but learned quickly) for $8/hour BEFORE TAXES! But, oh well, my life was to pay rent and drink. A guy in my office, who was an accountant, whom took a liking in design bossed me around and treated me like a mouse (click click click); then took my work and said it was his. But, hey, I didn’t mind being a mouse, rather than being a homeless, hungry mouse. 5 months in. Gave a huge ‘fuck you’ to the guy, walked out of the door, walking tall. And since then, learned photoshop, became a photoshop jockey, became a web designer, now a full-on back-end developer.&lt;/p&gt;
+&lt;p&gt;I really have to track this guy down and give him a hug.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS: LATER IN LIFE (Vancouver, BC. Present Day)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Working in a tech industry, love my job, love my life, counting my lucky stars that I’m alive and well. Imagine if I had spent time contemplating revenge, fueled by hatred from constantly being bullied throughout their lives; and I know a lot of people that are like that. All they do is talk about how much they hate their bosses, how much they hate their jobs, how much they hate being bullied by life in general. I’m not saying I don’t complain, I do complain, numerous times, but I keep it to myself, and I keep myself in check. If I complain about the shit that’s going on in my life 24/7 and laying it on people’s ears, then maybe there’s something wrong with me. Being bullied is like being given a responsibility and opportunity to shape your character. I’m still currently being bullied by my environment: taxes, bills, rent, crackheads, etc. etc. But I just choose to not let these things bother me, its a responsibility, and I deal with it. If I had taken the road of punching every person who crosses me in the past, then I probably wouldn’t deal with problems calmly. Life is good again.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>From Designer to Back-End Developer</title>
+      <link>http://greg.winstonhuxley.com/articles/from-designer-to-back-end-developer/</link>
+      <pubDate>Fri, 30  Aug 2013 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://greg.winstonhuxley.com/articles/from-designer-to-back-end-developer/</guid>
+      <author></author>
+      <description>&lt;h2&gt;From Designer to Back-End Development! Whew!&lt;/h2&gt;
+&lt;h4&gt;The journey of a photoshop slicer for the web who became a back-end developer&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;In 2008, I was a photoshop jocky, slicing static images, forking them over to Dreamweaver and magically transform those awesome images into a web page ! …….. then 30 minutes later, you realized that the amount of hours you put in making a beautiful photoshop mockup just doubled, because you had to fix problems and discover things you didn’t know about publishing for the web. Another scenario, in my case, after being all “cool” with your client, and he/she is floating in the heavens because they’re in LOVE with the mockup; you realize the things we design/drafted (wild, flashy ideas) on how the site will look like just does not seem “RATIONAL” or worse… you just don’t know how to execute it. You enslave yourself on google for decades trying to figure your super awesome idea that you pitched to your client, with luck and dilligence , you may be able to pull it off at the cost of NOT sleeping and making LESS money for the amount of hours you put in. I thought to myself “holy crap! am I in a pickle now!”&lt;/p&gt;
+&lt;p&gt;So I took some initiative to take some time and dedicate myself to learn the tools that are available out there to make your life EASIER as a web designer. Then you come across all these alien languages: php, mysql, noSql, mongodb, Node.js, .NET, ruby, ruby on rails, responsive design, adaptive, fluid, UX, etc. etc. That’s when I felt like the smallest person in the world, because I was ignorant back then, I didn’t even come from a design background or any technical related background at all, I though knowing photoshop was it (stupid me).&lt;/p&gt;
+&lt;p&gt;Months later after taking some time off and just glued myself on the computer screen, learning and learning all these things, I decided that I was ready to take on some projects, because I was more confident…… or so I thought….. So I took a job in an agency, and again, my face resembled that of a blow-up doll. Using a version control for the very first time…. completely clueless… and people actually gave me a look for using Dreamweaver as a text-editor (they had very good reasons for it though, they didn’t hate the product, they just thought that it wasn’t very efficient). Working for the very first time in a real dev environment really pushed me to get better, and encouraged me NEVER stop learning.&lt;/p&gt;
+&lt;p&gt;Some time later during the year, I gained so much knowledge in PHP, Ruby, Ruby on Rails, that I became a semi-back-end-developer, but at the same time still possess the front-end “eye”. I didn’t expect to be in that position. I thought to myself “Wow, I’m a Rails Developer! I’m awesome!” ….. or so I thought. Truth to be told, Rails kicked my arse hard, but loved every moment of it and I thought Rails was it for me, it was the best thing that ever happened to me… WRONG!&lt;/p&gt;
+&lt;p&gt;Years has passed, I have more white hair, got a bit wiser, learned a lot more things, writing clean markups, creating web applications, managing databases; I thought to myself, “I think I’m ok now.”&lt;/p&gt;
+&lt;p&gt;As of this moment, I can honestly say that I am a Node developer, a Rails Developer, a Web Product Developer, and a UX engineer. I have matured, gained so much knowledge with the help of Google and colleagues of mine (tip my hat to Luke Vivier, Lorne Markham, Dylan Elash, Adwin Lui, Tanner Charles, Sandro Federico)&lt;/p&gt;
+&lt;p&gt;The intention of writing this article is not to discourage designers out there; in a lot of cases, we do need a dedicated designers to make usable wireframes, great mockups, produce great assets; but rather encourage them to learn as they go, I’m not saying that every Front-End Developer should go through this pilgrimage; it was one hell of a journey for me, a lot of struggle for me, but I had a blast, and I don’t stop learning, ever.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

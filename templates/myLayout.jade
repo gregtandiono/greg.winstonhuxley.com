@@ -1,0 +1,28 @@
+!!! 5
+html.no-js(lang='en')
+  include partials/header
+  body
+    .container
+      //
+         NAV STARTS HERE 
+      include partials/nav
+      //
+         NAV ENDS HERE 
+      header.hero-unit
+        h1(data-uk-scrollspy='{cls:\'uk-animation-slide-bottom\', repeat: true}')
+          | Hi, I'm Greg. 
+          i.uk-icon-cog.uk-icon-spin
+          span
+            | UX Engineer. Developer. Designer.
+            br
+            | From Vancouver with 
+            i.uk-icon-heart
+        br
+        a(href=locals.nav[1].url, data-uk-scrollspy='{cls:\'uk-animation-slide-bottom\', repeat: true}')
+          | My Expertise 
+          i.uk-icon-long-arrow-right
+    //
+       /container 
+    //
+       Main Content Starts Here 
+    include partials/footer

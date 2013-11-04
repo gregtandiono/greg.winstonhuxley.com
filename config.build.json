@@ -1,0 +1,245 @@
+{
+  "locals": {
+    "url": "http://greg.winstonhuxley.com",
+    "name": "The Wintersmith's blog",
+    "owner": "Gregory Tandiono | Winston Huxley",
+    "description": "Gregory Tandiono's Personal Site, Blog, and Portfolio",
+    "author": "Gregory Tandiono",
+    "favicon": [
+                {
+                  "url": "http://www.winstonhuxley.com/gregory/img/favicon.png"
+                }
+          ],
+    "title": [
+              {
+                "name": "Home | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "About | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Resume | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "My Work | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Hire Me | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Blog | Gregory Tandiono | Winston Huxley"
+              }
+          ],
+    "assets": [
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/app.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/grid.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/normalize.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/demo.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/component.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/jquery.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/uikit.min.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/customizer.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/modernizr.custom.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/classie.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/gnmenu.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/app.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/toucheffects.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/nlform.js"
+            }
+          ],
+    "nav": [
+            {
+              "name": "About Me",
+              "description": "About Gregory Tandiono, Co-Founder & CTO of Winston Huxley.",
+              "url": "http://greg.winstonhuxley.com/about-me/",
+              "keywords": ""
+            },
+            {
+              "name": "Resume",
+              "description": "Resume of Gregory Tandiono. His Skill Set, Education, Hobbies, His Dog, His humble beginnings.",
+              "url": "http://greg.winstonhuxley.com/resume/",
+              "keywords": ""
+            },
+            {
+              "name": "Work",
+              "description": "The Portfolio/Work of Gregory Tandiono.",
+              "url": "http://greg.winstonhuxley.com/work/",
+              "keywords": ""
+            },
+            {
+              "name": "Hire Me",
+              "description": "Hire Gregory Tandiono for Custom Development, Art Direction Consultation, or to buy him a beer.",
+              "url": "http://greg.winstonhuxley.com/hire-me/",
+              "keywords": "Hire Gregory Tandiono, Hire Winston Huxley, Custom Development, Node.Js Development."
+            },
+            {
+              "name": "Blog",
+              "description": "Gregory Tandiono's Personal Blog.",
+              "url": "http://greg.winstonhuxley.com/blog/",
+              "keywords": "Gregory Tandiono, Blog, Vancouver"
+            }
+          ],
+    "images": [
+            {
+              "name": "Picture of Greg",
+              "url": "http://www.winstonhuxley.com/gregory/img/greg.png"
+            },
+            {
+              "name": "Redbull Logo",
+              "url": "http://www.winstonhuxley.com/gregory/img/redbull.png"
+            },
+            {
+              "name": "Ogilvy Logo",
+              "url": "http://www.winstonhuxley.com/gregory/img/ogilvy.png"
+            },
+            {
+              "name": "Winston Huxley Logo",
+              "url": "http://www.winstonhuxley.com/gregory/img/winstonhuxley.png"
+            },
+            {
+              "name": "Harnods Logo",
+              "url": "http://www.winstonhuxley.com/gregory/img/harnods.png"
+            },
+            {
+              "name": "winstonhuxley portfolio 1",
+              "url": "http://www.winstonhuxley.com/gregory/img/winstonhuxley-1.jpg"
+            },
+            {
+              "name": "winstonhuxley portfolio 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/winstonhuxley-2.jpg"
+            },
+            {
+              "name": "winstonhuxley portfolio 3",
+              "url": "http://www.winstonhuxley.com/gregory/img/winstonhuxley-3.jpg"
+            },
+            {
+              "name": "Synikal portfolio 1",
+              "url": "http://www.winstonhuxley.com/gregory/img/synikal-3.jpg"
+            },
+            {
+              "name": "Synikal portfolio 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/synikal-4.jpg"
+            },
+            {
+              "name": "Synikal portfolio 3",
+              "url": "http://www.winstonhuxley.com/gregory/img/synikal-8.jpg"
+            },
+            {
+              "name": "Sitar Restaurant",
+              "url": "http://www.winstonhuxley.com/gregory/img/sitar-1.jpg"
+            },
+            {
+              "name": "Sitar Restaurant 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/sitar-2.jpg"
+            },
+            {
+              "name": "Stigan Media",
+              "url": "http://www.winstonhuxley.com/gregory/img/stigan-media.png"
+            },
+            {
+              "name": "Stigan Media 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/stigan-media-1.jpg"
+            },
+            {
+              "name": "Stigan Media 3",
+              "url": "http://www.winstonhuxley.com/gregory/img/stigan-media-2.jpg"
+            },
+            {
+              "name": "Kodama",
+              "url": "http://www.winstonhuxley.com/gregory/img/kodama-1.jpg"
+            },
+            {
+              "name": "Kodama-2",
+              "url": "http://www.winstonhuxley.com/gregory/img/kodama-2.jpg"
+            },
+            {
+              "name": "Miami",
+              "url": "http://www.winstonhuxley.com/gregory/img/miami-1.jpg"
+            },
+            {
+              "name": "Miami 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/miami-2.jpg"
+            },
+            {
+              "name": "dogs",
+              "url": "http://www.winstonhuxley.com/gregory/img/3-dogs-1.jpg"
+            },
+            {
+              "name": "dogs 2",
+              "url": "http://www.winstonhuxley.com/gregory/img/3-dogs-2.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-1.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-2.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-3.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-4.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-5.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-6.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-7.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-8.jpg"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/img/graphics-9.jpg"
+            }
+          ]
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

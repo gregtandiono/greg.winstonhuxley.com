@@ -1,0 +1,25 @@
+!!! 5
+html.no-js(lang='en')
+  include partials/interiorHeader
+  body
+    .container
+      //
+         NAV STARTS HERE 
+      include partials/nav
+      //
+         NAV ENDS HERE 
+    //
+       /container 
+    //
+       Main Content Starts Here
+    main.blog-interior.blog-section(data-uk-scrollspy='{cls:\'uk-animation-fade\'}')
+      .uk-container.uk-container-center
+        .hero-padding
+        a(href=locals.nav[4].url).back-button
+          i.uk-icon-long-arrow-left 
+          | Back to the Blog 
+        .blog-article
+          != page.html
+
+    #main
+    include partials/footer

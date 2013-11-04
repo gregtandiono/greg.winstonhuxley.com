@@ -1,0 +1,128 @@
+{
+  "locals": {
+    "url": "http://greg.winstonhuxley.com",
+    "name": "The Wintersmith's blog",
+    "owner": "Gregory Tandiono | Winston Huxley",
+    "description": "Gregory Tandiono's Personal Site, Blog, and Portfolio",
+    "author": "Gregory Tandiono",
+    "favicon": [
+                {
+                  "url": "http://www.winstonhuxley.com/gregory/img/favicon.png"
+                }
+          ],
+    "title": [
+              {
+                "name": "Home | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "About | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Resume | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "My Work | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Hire Me | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Blog | Gregory Tandiono | Winston Huxley"
+              }
+          ],
+    "assets": [
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/app.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/grid.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/normalize.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/demo.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/css/component.css"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/jquery.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/uikit.min.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/customizer.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/modernizr.custom.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/classie.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/gnmenu.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/app.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/toucheffects.js"
+            },
+            {
+              "url": "http://www.winstonhuxley.com/gregory/js/nlform.js"
+            }
+          ],
+    "nav": [
+            {
+              "name": "About Me",
+              "description": "About Gregory Tandiono, Co-Founder & CTO of Winston Huxley.",
+              "url": "http://greg.winstonhuxley.com/about-me/",
+              "keywords": ""
+            },
+            {
+              "name": "Resume",
+              "description": "Resume of Gregory Tandiono. His Skill Set, Education, Hobbies, His Dog, His humble beginnings.",
+              "url": "http://greg.winstonhuxley.com/resume/",
+              "keywords": ""
+            },
+            {
+              "name": "Work",
+              "description": "The Portfolio/Work of Gregory Tandiono.",
+              "url": "http://greg.winstonhuxley.com/work/",
+              "keywords": ""
+            },
+            {
+              "name": "Hire Me",
+              "description": "Hire Gregory Tandiono for Custom Development, Art Direction Consultation, or to buy him a beer.",
+              "url": "http://greg.winstonhuxley.com/hire-me/",
+              "keywords": "Hire Gregory Tandiono, Hire Winston Huxley, Custom Development, Node.Js Development."
+            },
+            {
+              "name": "Blog",
+              "description": "Gregory Tandiono's Personal Blog.",
+              "url": "http://greg.winstonhuxley.com/blog/",
+              "keywords": "Gregory Tandiono, Blog, Vancouver"
+            }
+          ]
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

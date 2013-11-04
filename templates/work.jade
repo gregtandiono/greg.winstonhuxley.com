@@ -1,0 +1,120 @@
+!!! 5
+html.no-js(lang='en')
+  include partials/interiorHeader
+  body
+    .container
+      //
+         NAV STARTS HERE 
+      include partials/nav
+      //
+         NAV ENDS HERE 
+    //
+       /container 
+    //
+       Main Content Starts Here
+    section.interior.portfolio.hero
+      .uk-container.uk-container-center.uk-text-center
+          h1.cl-effect-1
+            a(href="#web", data-uk-smooth-scroll='data-uk-smooth-scroll') Web 
+              i.uk-icon-code
+            br
+            a(href="#branding", data-uk-smooth-scroll='data-uk-smooth-scroll') Branding 
+              i.uk-icon-briefcase
+            br
+            a(href="#graphics", data-uk-smooth-scroll='data-uk-smooth-scroll') Graphics 
+              i.uk-icon-tint
+    main.interior#main(data-uk-scrollspy='{cls:\'uk-animation-fade\'}')
+      .uk-container.uk-container-center
+        h2.uk-text-center#web Selected Web Work
+        .extra-bottom-pad
+        .extra-bottom-pad
+          .uk-width-large-1-1.uk-text-center
+            h4 Winston Huxley
+              br
+              small Web Development
+                br
+                a(href='http://www.winstonhuxley.com', target='_blank') Visit Site 
+                  i.uk-icon-long-arrow-right
+            img.centered(src=locals.images[5].url)
+            img.centered(src=locals.images[6].url)
+            img.centered(src=locals.images[7].url)
+          .section-divider
+          .uk-width-large-1-1.uk-text-center
+            h4 Synikal Clothing
+              br
+              small Web Design
+            img.centered(src=locals.images[8].url)
+            img.centered(src=locals.images[9].url)
+            img.centered(src=locals.images[10].url)
+          .section-divider
+          .uk-width-large-1-1.uk-text-center
+            h4 Sitar Restaurant
+              br
+              small Web Development
+                br
+                a(href='http://www.sitarrestaurant.net', target='_blank') Visit Site 
+                  i.uk-icon-long-arrow-right
+            img.centered(src=locals.images[11].url)
+            img.centered(src=locals.images[12].url)
+          .section-divider
+        h2.uk-text-center#branding Branding
+        .extra-bottom-pad
+        .extra-bottom-pad
+          .uk-width-large-1-1.uk-text-center
+            h4 Stigan Media
+              br
+              small Business: Online Marketing | SEO/SEM
+                br
+                | Location: Vancouver, BC
+            img.centered(src=locals.images[13].url)
+            br
+            img.centered(src=locals.images[14].url)
+            img.centered(src=locals.images[15].url)
+          .section-divider
+          .uk-width-large-1-1.uk-text-center
+            h4 Kodama Group
+              br
+              small Business: Toy Distributor
+                br
+                | Location: Atlanta, GA
+            img.centered(src=locals.images[16].url)
+            br
+            img.centered(src=locals.images[17].url)
+          .section-divider
+          .uk-width-large-1-1.uk-text-center
+            h4 Miami Glass House
+              br
+              small Business: Restaurant
+                br
+                | Location: Atlanta, GA
+            img.centered(src=locals.images[18].url)
+            br
+            img.centered(src=locals.images[19].url)
+          .section-divider
+          .uk-width-large-1-1.uk-text-center
+            h4 3 Dogs Productions
+              br
+              small Business: Video Production House
+                br
+                | Location: Vancouver, BC
+            img.centered(src=locals.images[20].url)
+            br
+            img.centered(src=locals.images[21].url)
+          .section-divider
+        h2.uk-text-center#graphics Graphics
+        .extra-bottom-pad
+        .extra-bottom-pad
+          .uk-width-large-1-1.uk-text-center
+            h4 Various Graphics Work
+            img.centered(src=locals.images[22].url)
+            img.centered(src=locals.images[23].url)
+            img.centered(src=locals.images[24].url)
+            img.centered(src=locals.images[25].url)
+            img.centered(src=locals.images[26].url)
+            img.centered(src=locals.images[27].url)
+            img.centered(src=locals.images[28].url)
+            img.centered(src=locals.images[29].url)
+            img.centered(src=locals.images[30].url)
+          .section-divider
+
+    include partials/footer

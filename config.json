@@ -1,0 +1,245 @@
+{
+  "locals": {
+    "url": "http://greg.winstonhuxley.com",
+    "name": "The Wintersmith's blog",
+    "owner": "Gregory Tandiono | Winston Huxley",
+    "description": "Gregory Tandiono's Personal Site, Blog, and Portfolio",
+    "author": "Gregory Tandiono",
+    "favicon": [
+                {
+                  "url": "/img/favicon.png"
+                }
+          ],
+    "title": [
+              {
+                "name": "Home | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "About | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Resume | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "My Work | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Hire Me | Gregory Tandiono | Winston Huxley"
+              },
+              {
+                "name": "Blog | Gregory Tandiono | Winston Huxley"
+              }
+          ],
+    "assets": [
+            {
+              "url": "/css/app.css"
+            },
+            {
+              "url": "/css/grid.css"
+            },
+            {
+              "url": "/css/normalize.css"
+            },
+            {
+              "url": "/css/demo.css"
+            },
+            {
+              "url": "/css/component.css"
+            },
+            {
+              "url": "/js/jquery.js"
+            },
+            {
+              "url": "/js/uikit.min.js"
+            },
+            {
+              "url": "/js/customizer.js"
+            },
+            {
+              "url": "/js/modernizr.custom.js"
+            },
+            {
+              "url": "/js/classie.js"
+            },
+            {
+              "url": "/js/gnmenu.js"
+            },
+            {
+              "url": "/js/app.js"
+            },
+            {
+              "url": "/js/toucheffects.js"
+            },
+            {
+              "url": "/js/nlform.js"
+            }
+          ],
+    "nav": [
+            {
+              "name": "About Me",
+              "description": "About Gregory Tandiono, Co-Founder & CTO of Winston Huxley.",
+              "url": "/about-me/",
+              "keywords": ""
+            },
+            {
+              "name": "Resume",
+              "description": "Resume of Gregory Tandiono. His Skill Set, Education, Hobbies, His Dog, His humble beginnings.",
+              "url": "/resume/",
+              "keywords": ""
+            },
+            {
+              "name": "Work",
+              "description": "The Portfolio/Work of Gregory Tandiono.",
+              "url": "/work/",
+              "keywords": ""
+            },
+            {
+              "name": "Hire Me",
+              "description": "Hire Gregory Tandiono for Custom Development, Art Direction Consultation, or to buy him a beer.",
+              "url": "/hire-me/",
+              "keywords": "Hire Gregory Tandiono, Hire Winston Huxley, Custom Development, Node.Js Development."
+            },
+            {
+              "name": "Blog",
+              "description": "Gregory Tandiono's Personal Blog.",
+              "url": "/blog/",
+              "keywords": "Gregory Tandiono, Blog, Vancouver"
+            }
+          ],
+    "images": [
+            {
+              "name": "Picture of Greg",
+              "url": "/img/greg.png"
+            },
+            {
+              "name": "Redbull Logo",
+              "url": "/img/redbull.png"
+            },
+            {
+              "name": "Ogilvy Logo",
+              "url": "/img/ogilvy.png"
+            },
+            {
+              "name": "Winston Huxley Logo",
+              "url": "/img/winstonhuxley.png"
+            },
+            {
+              "name": "Harnods Logo",
+              "url": "/img/harnods.png"
+            },
+            {
+              "name": "winstonhuxley portfolio 1",
+              "url": "/img/winstonhuxley-1.jpg"
+            },
+            {
+              "name": "winstonhuxley portfolio 2",
+              "url": "/img/winstonhuxley-2.jpg"
+            },
+            {
+              "name": "winstonhuxley portfolio 3",
+              "url": "/img/winstonhuxley-3.jpg"
+            },
+            {
+              "name": "Synikal portfolio 1",
+              "url": "/img/synikal-3.jpg"
+            },
+            {
+              "name": "Synikal portfolio 2",
+              "url": "/img/synikal-4.jpg"
+            },
+            {
+              "name": "Synikal portfolio 3",
+              "url": "/img/synikal-8.jpg"
+            },
+            {
+              "name": "Sitar Restaurant",
+              "url": "/img/sitar-1.jpg"
+            },
+            {
+              "name": "Sitar Restaurant 2",
+              "url": "/img/sitar-2.jpg"
+            },
+            {
+              "name": "Stigan Media",
+              "url": "/img/stigan-media.png"
+            },
+            {
+              "name": "Stigan Media 2",
+              "url": "/img/stigan-media-1.jpg"
+            },
+            {
+              "name": "Stigan Media 3",
+              "url": "/img/stigan-media-2.jpg"
+            },
+            {
+              "name": "Kodama",
+              "url": "/img/kodama-1.jpg"
+            },
+            {
+              "name": "Kodama-2",
+              "url": "/img/kodama-2.jpg"
+            },
+            {
+              "name": "Miami",
+              "url": "/img/miami-1.jpg"
+            },
+            {
+              "name": "Miami 2",
+              "url": "/img/miami-2.jpg"
+            },
+            {
+              "name": "dogs",
+              "url": "/img/3-dogs-1.jpg"
+            },
+            {
+              "name": "dogs 2",
+              "url": "/img/3-dogs-2.jpg"
+            },
+            {
+              "url": "/img/graphics-1.jpg"
+            },
+            {
+              "url": "/img/graphics-2.jpg"
+            },
+            {
+              "url": "/img/graphics-3.jpg"
+            },
+            {
+              "url": "/img/graphics-4.jpg"
+            },
+            {
+              "url": "/img/graphics-5.jpg"
+            },
+            {
+              "url": "/img/graphics-6.jpg"
+            },
+            {
+              "url": "/img/graphics-7.jpg"
+            },
+            {
+              "url": "/img/graphics-8.jpg"
+            },
+            {
+              "url": "/img/graphics-9.jpg"
+            }
+          ]
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

@@ -1,0 +1,46 @@
+!!! 5
+html.no-js(lang='en')
+  include partials/interiorHeader
+  body
+    .container
+      //
+         NAV STARTS HERE 
+      include partials/nav
+      //
+         NAV ENDS HERE 
+    //
+       /container 
+    //
+       Main Content Starts Here
+    section.interior.hireme-hero.hero
+      .uk-container.uk-container-center.uk-text-center(data-uk-scrollspy='{cls:\'uk-animation-slide-bottom\'}')
+        h1 Hire me 
+          i.uk-icon-smile
+        br
+        a.enter(href='#main', data-uk-smooth-scroll='data-uk-smooth-scroll') 
+          i.uk-icon-long-arrow-down
+    main.interior(data-uk-scrollspy='{cls:\'uk-animation-fade\'}')
+      .uk-container.uk-container-center.uk-text-center
+        h2 Please Complete the Form Below!
+        form#nl-form.nl-form
+          | Hello, my name is
+          input(type='text', value='', placeholder='John/Jane Doe')
+          br
+          | and my email is 
+          input(type='text', value='', placeholder='name@example.com')
+          br
+          | I'm Interested to hire you for 
+          select
+            option(value='1', selected) Choose
+            option(value='2') Web Development
+            option(value='3') Branding
+            option(value='4') Graphic Design
+          br
+          .nl-submit-wrap
+            button.nl-submit(type='submit') Let's go!
+          .nl-overlay
+          
+
+
+    #main
+    include partials/footer
